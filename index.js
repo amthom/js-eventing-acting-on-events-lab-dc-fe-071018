@@ -1,22 +1,4 @@
-Skip to content
 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @amthom Sign out
-0
-0 5 lbrobb/js-eventing-acting-on-events-lab-dc-fe-071018
-forked from learn-co-students/js-eventing-acting-on-events-lab-dc-fe-071018
- Code  Pull requests 0  Projects 0  Insights
-js-eventing-acting-on-events-lab-dc-fe-071018/index.js
-901506b  39 minutes ago
-@lbrobb lbrobb Done.
-@lbrobb @drakeltheryuujin @pletcher
-
-46 lines (36 sloc)  903 Bytes
 var dodger = document.getElementById('dodger')
 
 dodger.style.backgroundColor = "teal"
